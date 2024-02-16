@@ -1,0 +1,2 @@
+This CreditCardValidator is implemented using the C++ programming Language,which includes the Oops Concepts.
+The CreditCardValidator class uses the Luhn Algorithm to validate credit card numbers. The validate function of the class implements the steps described above to determine the validity of a given credit card number. If the total sum obtained is divisible by 10, the number is considered valid; otherwise, it is considered invalid.
